@@ -44,5 +44,6 @@ Additional information about the recording environment:
   - Wireless Microphone: `K8 Wireless Microphone`
 - Only one file `sample_2_WH720N_headphones_without_ANC_trimmed_re-sampled.wav` is recorded at 16kHz, rest all samples are recorded at 44.1kHz sampling rate
 - The bit depth of all the fiels is set to be at `32 bit (float)`
+- Sentences used: `List 6, first five sentences`
 
 - Preferred audio sample for further processing: `sample_2_WH720N_headphones_with_ANC.wav`
