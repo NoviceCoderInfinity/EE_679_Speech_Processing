@@ -1,0 +1,13 @@
+Recording,Method,Ref,SNR_dB,PESQ,STOI
+R1,Original,R1_original,inf,4.6439,1.0000
+R1,Classical,R1_original,6.6212,4.6341,0.9987
+R1,Neural,R1_original,8.1448,1.1205,0.8056
+R2,Original,R1_original,-1.6181,1.1522,0.0075
+R2,Classical,R1_original,-0.4535,1.1153,0.0075
+R2,Neural,R1_original,-0.7393,1.0811,-0.0077
+R3,Original,R1_original,-0.8707,2.5580,0.0302
+R3,Classical,R1_original,-0.2734,2.9915,0.0170
+R3,Neural,R1_original,-0.3645,1.4491,0.0308
+R1,Neural,Classical_enhanced,4.5426,1.1504,0.8071
+R2,Neural,Classical_enhanced,6.2817,1.1157,0.7380
+R3,Neural,Classical_enhanced,-3.7304,1.1607,0.0302
